@@ -6,3 +6,14 @@ seaborn
 wordcloud
 scikit-learn
 fastparquet
+lightgbm
+imbalanced-learn
+xgboost
+nltk
+kaggle
+python-dotenv
+tensorflow
+torch
+tabulate
+fastapi
+uvicorn
